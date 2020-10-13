@@ -42,3 +42,4 @@ packrat/src/
 # allow rendered html files in docs
 !docs/**/*.html
 inst/doc
+docs
